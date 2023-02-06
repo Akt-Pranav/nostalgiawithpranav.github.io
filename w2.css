@@ -36,15 +36,15 @@ padding-top: 60px;
     color:orangered;
     }
 
-.sidenav li {
+.sidenav a {
 padding: 8px 8px 8px 10px; 
 font-size: medium;
- /* text-decoration: none; */
+ text-decoration: none;
 color: white;
 display: block;
 transition: 0.3s; 
 }
-.sidenav li:hover {
+.sidenav a:hover {
 color:cyan;
 }
 .sidenav .closebtn {
